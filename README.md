@@ -1,4 +1,4 @@
-# MachineLearningCoursera
+# Machine Learning - Coursera
 Programming exercices from Machine Learning course taught in Coursera by Andrew Ng.
 
 
